@@ -1,0 +1,23 @@
+#hiby{background-color:red;}
+#play{background-color: red;}
+.jumbotron{background-color: palevioletred;}
+#fudge{font-size: 50px;}
+#fudge2{font-size: 50px; margin-top: 40px ;}
+#you{margin-left: 270px; font-size: 100px;}
+#family{width: 1000px; margin-top: -200px;}
+#ui{background-color: palevioletred;}
+.fill img {
+    width:82%;
+    margin-top: 40px;
+  }
+  
+  
+  /* iPhone 5 check */
+  @media (max-width: 1430px) {
+    #family{
+      
+       width: 400px; margin-top: 300px;
+      }
+      
+  }
+
